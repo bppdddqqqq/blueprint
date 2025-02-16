@@ -464,8 +464,8 @@ __metadata:
     mocha: "npm:^10.2.0"
     normalize.css: "npm:^8.0.1"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     react-popper: "npm:^2.3.0"
     react-test-renderer: "npm:^18.3.1"
     react-transition-group: "npm:^4.4.5"
@@ -476,8 +476,8 @@ __metadata:
     webpack-cli: "npm:^5.1.4"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -504,17 +504,17 @@ __metadata:
     karma: "npm:^6.4.2"
     mocha: "npm:^10.2.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
+    react: "npm:^19.0.0"
     react-day-picker: "npm:^8.10.0"
-    react-dom: "npm:^18.3.1"
+    react-dom: "npm:^19.0.0"
     react-innertext: "npm:^1.1.5"
     tslib: "npm:~2.6.2"
     typescript: "npm:~5.3.3"
     webpack-cli: "npm:^5.1.4"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -539,9 +539,9 @@ __metadata:
     karma: "npm:^6.4.2"
     mocha: "npm:^10.2.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
+    react: "npm:^19.0.0"
     react-day-picker: "patch:react-day-picker@npm%3A7.4.9#~/.yarn/patches/react-day-picker-npm-7.4.9-8853eff118.patch"
-    react-dom: "npm:^18.3.1"
+    react-dom: "npm:^19.0.0"
     react-test-renderer: "npm:^18.3.1"
     tslib: "npm:~2.6.2"
     typescript: "npm:~5.3.3"
@@ -574,8 +574,8 @@ __metadata:
     lodash: "npm:^4.17.21"
     normalize.css: "npm:^8.0.1"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     react-transition-group: "npm:^4.4.5"
     tslib: "npm:~2.6.2"
     webpack-cli: "npm:^5.1.4"
@@ -616,8 +616,8 @@ __metadata:
     normalize.css: "npm:^8.0.1"
     npm-run-all: "npm:^4.1.5"
     popper.js: "npm:^1.16.1"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     react-transition-group: "npm:^4.4.5"
     tslib: "npm:~2.6.2"
     webpack-cli: "npm:^5.1.4"
@@ -651,15 +651,15 @@ __metadata:
     classnames: "npm:^2.3.1"
     fuzzaldrin-plus: "npm:^0.6.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     tslib: "npm:~2.6.2"
     typescript: "npm:~5.3.3"
     webpack-cli: "npm:^5.1.4"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -721,8 +721,8 @@ __metadata:
     handlebars: "npm:^4.7.8"
     mocha: "npm:^10.2.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     react-test-renderer: "npm:^18.3.1"
     svg-parser: "npm:^2.0.4"
     tslib: "npm:~2.6.2"
@@ -730,8 +730,8 @@ __metadata:
     webpack-cli: "npm:^5.1.4"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -775,7 +775,7 @@ __metadata:
     copy-webpack-plugin: "npm:^12.0.2"
     npm-run-all: "npm:^4.1.5"
     raw-loader: "npm:^4.0.2"
-    react: "npm:^18.3.1"
+    react: "npm:^19.0.0"
     react-dom: "npm:^18.3.1"
     webpack: "npm:^5.90.0"
     webpack-dev-server: "npm:^4.15.1"
@@ -850,14 +850,14 @@ __metadata:
     "@blueprintjs/node-build-scripts": "workspace:^"
     classnames: "npm:^2.3.1"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     tslib: "npm:~2.6.2"
     typescript: "npm:~5.3.3"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -915,16 +915,16 @@ __metadata:
     karma: "npm:^6.4.2"
     mocha: "npm:^10.2.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     react-test-renderer: "npm:^18.3.1"
     tslib: "npm:~2.6.2"
     typescript: "npm:~5.3.3"
     webpack-cli: "npm:^5.1.4"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -961,7 +961,7 @@ __metadata:
     lodash: "npm:^4.17.21"
     normalize.css: "npm:^8.0.1"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
+    react: "npm:^19.0.0"
     react-dom: "npm:^18.3.1"
     webpack: "npm:^5.90.0"
     webpack-dev-server: "npm:^4.15.1"
@@ -981,8 +981,8 @@ __metadata:
     karma: "npm:^6.4.2"
     mocha: "npm:^10.2.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     react-innertext: "npm:^1.1.5"
     react-test-renderer: "npm:^18.3.1"
     tslib: "npm:~2.6.2"
@@ -990,8 +990,8 @@ __metadata:
     webpack: "npm:^5.90.0"
   peerDependencies:
     "@types/react": ^16.14.41 || 17 || 18
-    react: ^16.8 || 17 || 18
-    react-dom: ^16.8 || 17 || 18
+    react: ^16.8 || 17 || 18 || 19
+    react-dom: ^16.8 || 17 || 18 || 19
   peerDependenciesMeta:
     "@types/react":
       optional: true
@@ -1007,8 +1007,8 @@ __metadata:
     chai: "npm:^5.0.0"
     enzyme: "npm:^3.11.0"
     npm-run-all: "npm:^4.1.5"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
     typescript: "npm:~5.3.3"
   peerDependencies:
     react: ">=16.8"
@@ -13920,6 +13920,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-dom@npm:^19.0.0":
+  version: 19.0.0
+  resolution: "react-dom@npm:19.0.0"
+  dependencies:
+    scheduler: "npm:^0.25.0"
+  peerDependencies:
+    react: ^19.0.0
+  checksum: a36ce7ab507b237ae2759c984cdaad4af4096d8199fb65b3815c16825e5cfeb7293da790a3fc2184b52bfba7ba3ff31c058c01947aff6fd1a3701632aabaa6a9
+  languageName: node
+  linkType: hard
+
 "react-fast-compare@npm:^3.0.1":
   version: 3.2.2
   resolution: "react-fast-compare@npm:3.2.2"
@@ -14034,12 +14045,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.3.1":
-  version: 18.3.1
-  resolution: "react@npm:18.3.1"
-  dependencies:
-    loose-envify: "npm:^1.1.0"
-  checksum: 283e8c5efcf37802c9d1ce767f302dd569dd97a70d9bb8c7be79a789b9902451e0d16334b05d73299b20f048cbc3c7d288bbbde10b701fa194e2089c237dbea3
+"react@npm:^19.0.0":
+  version: 19.0.0
+  resolution: "react@npm:19.0.0"
+  checksum: 9cad8f103e8e3a16d15cb18a0d8115d8bd9f9e1ce3420310aea381eb42aa0a4f812cf047bb5441349257a05fba8a291515691e3cb51267279b2d2c3253f38471
   languageName: node
   linkType: hard
 
@@ -14527,6 +14536,13 @@ __metadata:
   dependencies:
     loose-envify: "npm:^1.1.0"
   checksum: 26383305e249651d4c58e6705d5f8425f153211aef95f15161c151f7b8de885f24751b377e4a0b3dd42cce09aad3f87a61dab7636859c0d89b7daf1a1e2a5c78
+  languageName: node
+  linkType: hard
+
+"scheduler@npm:^0.25.0":
+  version: 0.25.0
+  resolution: "scheduler@npm:0.25.0"
+  checksum: a4bb1da406b613ce72c1299db43759526058fdcc413999c3c3e0db8956df7633acf395cb20eb2303b6a65d658d66b6585d344460abaee8080b4aa931f10eaafe
   languageName: node
   linkType: hard
 
